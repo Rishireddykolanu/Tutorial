@@ -4,6 +4,7 @@
 void main(){
 
 unsigned char *image;
+
 unsigned char *image1;
 int cols,rows,i,j;
 char red,blue,green;
